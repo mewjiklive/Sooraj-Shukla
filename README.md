@@ -7,7 +7,7 @@ Frontend: ReactJS, JavaScript, CSS, HTML, Bootstrap
 Backend: PHP, MySQL
 Version Control: Git, GitHub
 
-3. Projects
+2. Projects
 Here are some of the projects I've worked on:
 
 PHP Contact Form: A contact form built with PHP to send and receive messages.
