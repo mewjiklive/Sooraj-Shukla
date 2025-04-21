@@ -1,6 +1,7 @@
 Hi, I'm Sooraj Shukla, a web developer passionate about creating efficient and functional web applications. I love experimenting with new technologies and continuously learning to improve my skills. Currently, I'm focused on building full-stack applications and contributing to open-source projects.
 
 1. My Work
+   
 I specialize in:
 
 Frontend: ReactJS, JavaScript, CSS, HTML, Bootstrap
@@ -10,6 +11,7 @@ Backend: PHP, MySQL
 Version Control: Git, GitHub
 
 2. Projects
+   
 Here are some of the projects I've worked on:
 
 PHP Contact Form: A contact form built with PHP to send and receive messages.
@@ -25,6 +27,7 @@ PHP CRUD Application: A simple CRUD (Create, Read, Update, Delete) application b
 Random Jokes Generator: A fun app that generates random jokes using CSS and JavaScript.
 
 3. Skills
+   
 Languages: JavaScript, PHP, HTML, CSS
 
 Libraries/Frameworks: ReactJS, Bootstrap
