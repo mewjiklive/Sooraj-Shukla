@@ -1,42 +1,45 @@
-Hi, I'm Sooraj Shukla, a web developer passionate about creating efficient and functional web applications. I love experimenting with new technologies and continuously learning to improve my skills. Currently, I'm focused on building full-stack applications and contributing to open-source projects.
+👋 Hi, I'm Sooraj Shukla
+I'm a web developer passionate about building efficient and functional web applications. I love experimenting with new technologies and continuously learning to enhance my development skills. Currently, I'm focused on full-stack development and contributing to open-source projects. I'm also exploring Data Structures and Algorithms (DSA) using C and C++ to strengthen my problem-solving skills.
 
-1. My Work
-   
+💼 My Work
 I specialize in:
 
 Frontend: ReactJS, JavaScript, CSS, HTML, Bootstrap
 
 Backend: PHP, MySQL
 
+Programming Languages: JavaScript, PHP, HTML, CSS, C, C++
+
 Version Control: Git, GitHub
 
-2. Projects
-   
-Here are some of the projects I've worked on:
+DSA & Competitive Programming: C and C++
 
-PHP Contact Form: A contact form built with PHP to send and receive messages.
+🚀 Projects
+Here are a few projects I've built:
 
-Quiz App: A JavaScript-based quiz application that challenges users with multiple-choice questions.
+PHP Contact Form – A simple contact form to send and receive messages.
 
-Tic-Tac-Toe: A classic Tic-Tac-Toe game built using JavaScript.
+Quiz App – A JavaScript quiz app with multiple-choice questions.
 
-To-Do List: A task management app developed with HTML, CSS, and JavaScript.
+Tic-Tac-Toe – The classic game built with HTML, CSS, and JavaScript.
 
-PHP CRUD Application: A simple CRUD (Create, Read, Update, Delete) application built using PHP.
+To-Do List – A task management app with basic CRUD operations.
 
-Random Jokes Generator: A fun app that generates random jokes using CSS and JavaScript.
+PHP CRUD Application – A complete Create, Read, Update, Delete app using PHP and MySQL.
 
-3. Skills
-   
-Languages: JavaScript, PHP, HTML, CSS
+Random Jokes Generator – A fun project that fetches and displays random jokes.
 
-Libraries/Frameworks: ReactJS, Bootstrap
+🛠️ Skills
+Languages: JavaScript, PHP, C, C++, HTML, CSS
 
-Databases: MySQL
+Frameworks/Libraries: ReactJS, Bootstrap
+
+Database: MySQL
 
 Tools: Git, GitHub, VS Code
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you're interested in collaborating or discussing technology!
+🤝 Let's Connect
+Feel free to explore my repositories, and don’t hesitate to reach out if you're interested in collaborating, discussing web technologies, or solving DSA problems together!
 
 
 <!--
